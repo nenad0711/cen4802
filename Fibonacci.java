@@ -7,7 +7,7 @@
  */
 public class Fibonacci {
     /**
-     * Returns the Fibonacci number by using a recursive approach
+     * Returns the Fibonacci number by using a recursive approach.
      * @param n The number n represents the position of the number that we are searching for in the Fibonacci sequence.
      * @return Value associated with the nth position in the Fibonacci sequence.
      */
