@@ -1,12 +1,12 @@
 
 /**
- * This class contains method for finding Fibonacci number by usingrecursive approach
+ * This class contains a method for finding Fibonacci numbers by using a recursive approach
  * @author Nenad Jovanovic
  * @version 1.0
  */
 public class Fibonacci {
     /**
-     * Returns the Fibonacci number by using recursive approach
+     * Returns the Fibonacci number by using a recursive approach
      * @param n The number n represents the position of the number that we are searching for in the Fibonacci sequence.
      * @return Value associated with the nth position in the Fibonacci sequence.
      */
@@ -18,7 +18,7 @@ public class Fibonacci {
     }
 
     /**
-     * This is the main method. Recursive method for finding Fibonacci number is tested.
+     * This is the main method. The recursive method for finding Fibonacci numbers is tested.
      * @param args Strings passed into the main
      */
     public static void main(String[] args) {
